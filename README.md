@@ -8,8 +8,8 @@
 # RN
 
 - [x] A transacao pode ser do tipo de credito que somara ao valor total, ou debito subtraira; 
-- [ ] Deve ser possuivel identificamos o usuario entre as requisicoes;
-- [ ] O usuario so pode visualizar a transacao a qual ele enviou
+- [x] Deve ser possuivel identificamos o usuario entre as requisicoes;
+- [x] O usuario so pode visualizar a transacao a qual ele enviou
 
 # RNF
  
