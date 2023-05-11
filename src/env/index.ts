@@ -8,6 +8,7 @@ const envSchema = z.object({
     PORT: z.number().default(3333)
 })
 
+
 const _env = envSchema.safeParse(process.env);
 
 if(_env.success === false){
